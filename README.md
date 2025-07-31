@@ -143,9 +143,6 @@ Bu yüzden çoğu durumda daha akıllı, dengeli ve gerçek hayata uygun kararla
 ┣ 📄 README.md 
 
 
-
-
-
 ---
 
 ## 🔑 Anahtar Kelimeler
