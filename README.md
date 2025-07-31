@@ -138,9 +138,9 @@ Bu yüzden çoğu durumda daha akıllı, dengeli ve gerçek hayata uygun kararla
 ## ⚙️ Proje Dosya Yapısı
 
 📦 soft-voting-breast-cancer-ensemble
-┣ 📄 BreastCancer.csv → Temizlenmiş veri seti
-┣ 📄 softvoiting.ipynb → Model eğitimi ve analiz
-┣ 📄 README.md → Bu belge
+┣ 📄 BreastCancer.csv - Temizlenmiş veri seti
+┣ 📄 softvoiting.ipynb - Model eğitimi ve analiz
+┣ 📄 README.md 
 
 
 
@@ -159,7 +159,7 @@ Bu yüzden çoğu durumda daha akıllı, dengeli ve gerçek hayata uygun kararla
 
 **Ceren Mencütekin**
 
-Her türlü katkı ve öneriye açığız!  
+Her türlü katkı ve öneriye açığım. 
 🎁 Pull request göndermekten çekinme.  
 🤝 Yeni modeller, ROC eğrileri, grid search gibi katkılarla bu projeyi büyütebilirsin.
 
