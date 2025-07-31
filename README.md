@@ -73,7 +73,7 @@ Hassaslık	Düşük (sadece etiket)	Yüksek (eminlik dahil)
 Denge ve Kararlılık	Orta	Daha iyi dengeleme sağlar
 Kullanım Durumu	Basit modeller, hızlı uygulama	Olasılık çıktısı veren modeller, daha yüksek doğruluk
 
-##📌 Özetle
+## 📌 Özetle
 Soft Voting, "model çoğunlukla ne diyor?" yerine,
 "her model ne kadar emin? ve ortalama güven kime daha yüksek?" diye sorar.
 Bu yüzden çoğu durumda daha akıllı, dengeli ve gerçek hayata uygun kararlar üretir.
